@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <declare-styleable name="MainView">
+        <!--定义toolbar中展示的内容-->
+        <attr name="toolbarLayoutRes" format="reference"/>
+    </declare-styleable>
+</resources>

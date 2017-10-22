@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <!--用户名和头像展示-->
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="20dp"
+        android:background="@color/aqua"
+    android:drawableLeft="@drawable/email"/>
+    <!--展示标题-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@color/gray"
+        android:lines="1"
+        />
+    <!--展示内容-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:lines="2"
+        android:background="@color/yellow"
+        android:ellipsize="end"
+        />
+</LinearLayout>

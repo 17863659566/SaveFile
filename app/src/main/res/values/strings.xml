@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account">邮箱</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="userRead" >用户必读</string>
+    <string name="app_name">校园共享</string>
+    <string name="material_is_good">Material is Good</string>
+</resources>
